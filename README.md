@@ -3,6 +3,8 @@ gitter-translations
 
 Translations of Gitter to other languages. Please submit pull-requests if you would like to add or change anything!
 
+[![Gitter](https://badges.gitter.im/JOIN ROOM.svg)](https://gitter.im/gitterHQ/gitter-translations?utm_source=badge&utm_medium=badge&utm_campaign=share-badge)
+
 ## How this works
 
 At the moment we are busy externalising all of our strings, so the only two areas that currently work are:
