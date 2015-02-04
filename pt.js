@@ -1,7 +1,7 @@
 {
   "%s ago": "%s atrás",
   "%d unread message": {
-    "one": "%d unread message",
-    "other": "%d unread messages"
+    "one": "%d mensagem não lida",
+    "other": "%d mensagens não lidas"
   }
 }
