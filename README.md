@@ -13,9 +13,7 @@ At the moment we are busy externalising all of our strings, so the only two area
 
 ## Homepage instructions
 
-We manually exported the HTML from our build system. Some aspects of the page won't work if you run it locally, but it's easily possible just to edit the content and send us back a pull request.
-
-See the homepage directory in this repo for languages we have translated before. Feel free to submit an entirely new file for your language.
+The homepage strings are kept in the homepage directory
 
 ## Additional areas of the application
 
