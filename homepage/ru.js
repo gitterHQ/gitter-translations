@@ -63,5 +63,5 @@
 	"API": "API",
 	"Blog": "Блог",
 	"Twitter": "Twitter",
-	"Translated By": ""
+	"Translated By": "-"
 }

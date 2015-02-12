@@ -63,5 +63,5 @@
 	"Blog": "Blog",
 	"Twitter": "Twitter",
 	"Gitter &mdash; Where developers come to talk.": "Gitter &mdash; Where developers come to talk.",
-	"Translated By": "Translated By"
+	"Translated By": "-"
 }
