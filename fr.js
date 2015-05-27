@@ -1,19 +1,19 @@
 {
-	"%s ago": "il ya %s",
+	"%s ago": "il y a %s",
 	"%d unread message": {
-		"one": "%d unread message",
-		"other": "%d unread messages"
+		"one": "%d message non lu",
+		"other": "%d messages non lus"
 	},
 	"Unread messages in %%s, %%s and one other": {
-		"one": "Unread messages in %%s, %%s and one other",
-		"other": "Unread messages in %%s, %%s and %d others"
+		"one": "Messages non lus dans %%s, %%s et un autre",
+		"other": "Messages non lus dans %%s, %%s et %d autres"
 	},
-	"Unread messages in %s": "Unread messages in %s",
-	"Unread messages in %s and %s": "Unread messages in %s and %s",
-	"Unread messages from %s": "Unread messages from %s",
-	"Unread messages from %s and %s": "Unread messages from %s and %s",
+	"Unread messages in %s": "Messages non lus dans %s",
+	"Unread messages in %s and %s": "Messages non lus dans %s et %s",
+	"Unread messages from %s": "Messages non lus de %s",
+	"Unread messages from %s and %s": "Messages non lus de %s et %s",
 	"Unread messages from %%s, %%s and one other": {
-		"one": "Unread messages from %%s, %%s and one other",
-		"other": "Unread messages from %%s, %%s and %d others"
+		"one": "Messages non lus de %%s, %%s et un autre",
+		"other": "Messages non lus de %%s, %%s et %d autres"
 	}
 }
