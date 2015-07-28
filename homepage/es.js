@@ -5,7 +5,7 @@
 	"Existing user login": "Iniciar sesión",
 	"login": "Iniciar sesión",
 	"Chat, for GitHub.": "Chat, para GitHub.",
-	"Get unlimited public rooms and one-to-one chats, free forever. Private team plans start from $2 per user per month. No credit card required.": "Salas públicas y conversaciones uno-a-uno ilimitadas, para siempre. Planes para equipos desde $2 por usuario por mes. No requiere tarjeta de crédito.",
+	"Get unlimited public rooms and one-to-one chats, free forever. Private team plans start from $5 per user per month. No credit card required.": "Salas públicas y conversaciones uno-a-uno ilimitadas, para siempre. Planes para equipos desde $5 por usuario por mes. No requiere tarjeta de crédito.",
 	"Sign up free with Github": "Regístrate gratis con Github",
 	"Sign up with Github": "Regístrate con Github",
 	"By signing up you agree to our <a %s>Terms and Conditions</a>": "Registrándote aceptas nuestros <a %s>Términos y Condiciones</a>",
@@ -49,10 +49,11 @@
 	"Prices may be subject to VAT. By signing up you agree to our <a %s>Terms and Conditions</a>.": "Precios sujetos a VAT. Registrándote aceptas nuestros <a %s>Términos y condiciones</a>.",
 	"Get Gitter now!": "Regístrate ahora!",
 	"Gitter is available in all modern browsers as well as apps for desktops and mobile phones.": "Gitter esta disponible en todos los navegadores modernos así como en aplicaciones de escritorio y móvil.",
-	"We currently have apps for OSX, iOS, Android and Windows with a Linux app coming soon. We also have a sweet little <a %s>IRC bridge</a>": "De momento tenemos aplicaciones para OSX, iOS, Android, Windows y Linux. También tenemos una interfaz con <a %s>IRC</a>",
+	"We currently have apps for OSX, iOS, Android, Windows and Linux. We also have a sweet little <a %s>IRC bridge</a>": "De momento tenemos aplicaciones para OSX, iOS, Android, Windows y Linux. También tenemos una interfaz con <a %s>IRC</a>",
 	"Mac": "Mac",
 	"Windows": "Windows",
-	"Coming soon": "Muy pronto",
+	"Linux 32": "Linux 32",
+	"Linux 64": "Linux 64",
 	"iPhone": "iPhone",
 	"Android": "Android",
 	"By developers, for developers": "Para desarrolladores, por desarrolladores",
@@ -63,5 +64,8 @@
 	"Blog": "Blog",
 	"Twitter": "Twitter",
 	"Gitter &mdash; Where developers come to talk.": "Gitter &mdash; Donde los desarrolladores vienen a conversar.",
-	"Translated By": "-"
+	"Translated By": "-",
+	"Pro": "Pro",
+	"<b>25</b> org members": "<b>25</b> miembros de la Organización",
+	"<b>Unlimited</b> org members": "Miembros de la organización <b>ilimitados</b>"
 }

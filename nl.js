@@ -1,5 +1,4 @@
 {
-	"%s ago": "%s geleden",
 	"%d unread message": {
 		"one": "%d ongelezen bericht",
 		"other": "%d ongelezen berichten"

@@ -1,5 +1,4 @@
 {
-	"%s ago": "před %s",
 	"%d unread message": {
 		"one": "%d nepřečtená zpráva",
 		"other": "%d nepřečtené zprávy"
