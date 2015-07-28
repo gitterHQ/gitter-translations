@@ -5,7 +5,6 @@
 	"Existing user login": "既存のユーザーログイン",
 	"login": "ログイン",
 	"Chat, for GitHub.": "開発者が話をする場所",
-	"Get unlimited public rooms and one-to-one chats, free forever. Private team plans start from $2 per user per month. No credit card required.": "私たちは世界中の開発者が集まりプログラミングの未来や、より良い製品の構築、ネコのGIFなどについて話し合うパブリックなコミュニティを数多く主催しています。",
 	"Sign up free with Github": "GitHubで登録",
 	"Sign up with Github": "GitHubで登録",
 	"By signing up you agree to our <a %s>Terms and Conditions</a>": "<a %s>登録することにより当社利用条件に同意したものとみなします。</a>",
@@ -49,10 +48,11 @@
 	"Prices may be subject to VAT. By signing up you agree to our <a %s>Terms and Conditions</a>.": "<a %s>登録することにより当社利用条件に同意したものとみなします。</a>.",
 	"Get Gitter now!": "今すぐGitterを入手しよう！",
 	"Gitter is available in all modern browsers as well as apps for desktops and mobile phones.": "Gitterはデスクトップや携帯電話向けのアプリだけでなくすべての最新ブラウザでご利用いただけます。",
-	"We currently have apps for OSX, iOS, Android and Windows with a Linux app coming soon. We also have a sweet little <a %s>IRC bridge</a>": "当社には現在、OSX、iOS、Chrome向けのアプリがあり、Android、Linux、Windowsで動作します。非常に小さな <a %s>IRC bridge</a>もあります。",
+	"We currently have apps for OSX, iOS, Android, Windows and Linux. We also have a sweet little <a %s>IRC bridge</a>": "当社には現在、OSX、iOS、Android、Linux、Windows。非常に小さな <a %s>IRC bridge</a>もあります。",
 	"Mac": "Mac",
 	"Windows": "Windows",
-	"Coming soon": "近日公開",
+	"Linux 32": "Linux 32",
+	"Linux 64": "Linux 64",
 	"iPhone": "iPhone",
 	"Android": "Android",
 	"By developers, for developers": "開発者から開発者へ",
@@ -63,5 +63,10 @@
 	"Blog": "ブログ",
 	"Twitter": "Twitter",
 	"Gitter &mdash; Where developers come to talk.": "Gitter &mdash; 開発者が話をする場所",
-	"Translated By": "-"
+	"Translated By": "-",
+	"<b>Unlimited</b> integrations": "<b>Unlimited</b> integrations",
+	"Limited to 25 users per private room": "Limited to 25 users per private room",
+	"Pro": "Pro",
+	"<b>Unlimited</b> users per private room": "<b>Unlimited</b> users per private room",
+	"Get unlimited public rooms and one-to-one chats, free forever. Private team plans start from $5 per user per month. No credit card required.": "Get unlimited public rooms and one-to-one chats, free forever. Private team plans start from $5 per user per month. No credit card required."
 }
