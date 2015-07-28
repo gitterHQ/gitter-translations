@@ -1,6 +1,7 @@
 {
   "name": "gitter-translations",
   "version": "1.0.0",
+  "private": true,
   "description": "Translations for the Gitter webapp",
   "main": "ar.js",
   "scripts": {
