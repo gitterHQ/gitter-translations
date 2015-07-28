@@ -1,5 +1,4 @@
 {
-	"%s ago": "il y a %s",
 	"%d unread message": {
 		"one": "%d message non lu",
 		"other": "%d messages non lus"
@@ -17,3 +16,4 @@
 		"other": "Messages non lus de %%s, %%s et %d autres"
 	}
 }
+
