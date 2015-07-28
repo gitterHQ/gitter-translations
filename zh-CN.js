@@ -1,7 +1,7 @@
 {
 	"%d unread message": {
-		"one": "%d mensaje no leído",
-		"other": "%d mensajes no leídos"
+		"one": "%d条未读信息",
+		"other": "%d条未读信息"
 	},
 	"Unread messages in %%s, %%s and one other": {
 		"one": "Unread messages in %%s, %%s and one other",
