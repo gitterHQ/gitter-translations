@@ -1,0 +1,19 @@
+{
+  "name": "gitter-translations",
+  "version": "1.0.0",
+  "description": "Translations for the Gitter webapp",
+  "main": "ar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitterHQ/gitter-translations.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitterHQ/gitter-translations/issues"
+  },
+  "homepage": "https://github.com/gitterHQ/gitter-translations#readme"
+}
