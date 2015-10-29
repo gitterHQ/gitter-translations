@@ -1,18 +1,18 @@
 {
 	"%d unread message": {
-		"one": "%d unread message",
-		"other": "%d unread messages"
+		"one": "%d ungelesene Nachricht",
+		"other": "%d ungelesene Nachricht"
 	},
 	"Unread messages in %%s, %%s and one other": {
-		"one": "Unread messages in %%s, %%s and one other",
-		"other": "Unread messages in %%s, %%s and %d others"
+		"one": "Ungelesene Nachrichten in %%s, %%s und einem weiteren",
+		"other": "Ungelesene Nachrichten %%s, %%s und %d weiteren"
 	},
-	"Unread messages in %s": "Unread messages in %s",
-	"Unread messages in %s and %s": "Unread messages in %s and %s",
-	"Unread messages from %s": "Unread messages from %s",
-	"Unread messages from %s and %s": "Unread messages from %s and %s",
+	"Unread messages in %s": "Eine ungelesene Nachricht in %s",
+	"Unread messages in %s and %s": "Ungelesene Nachrichten in %s und %s",
+	"Unread messages from %s": "Ungelesene Nachrichten von %s",
+	"Unread messages from %s and %s": "Ungelesene Nachrichten von %s und %s",
 	"Unread messages from %%s, %%s and one other": {
-		"one": "Unread messages from %%s, %%s and one other",
-		"other": "Unread messages from %%s, %%s and %d others"
+		"one": "Ungelesene Nachrichten von %%s, %%s und einem anderen",
+		"other": "Ungelesene Nachrichten von %%s, %%s und %d anderen"
 	}
 }
