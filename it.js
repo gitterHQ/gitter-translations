@@ -12,7 +12,7 @@
 	"Unread messages from %s": "Messaggi non letti da %s",
 	"Unread messages from %s and %s": "Messaggi non letti da %s e %s",
 	"Unread messages from %%s, %%s and one other": {
-		"one": "Messaggio non letto da %%s, %%s e un altro utente",
+		"one": "Messaggio non letto da %%s, %%s ed un altro utente",
 		"other": "Messaggi non letti da %%s, %%s e %d altri utenti"
 	}
 }
