@@ -15,7 +15,7 @@
 	"Private conversations": "Conversazioni Private",
 	"Public rooms are awesome (and free), but we get that some stuff is private. So we've got <a %s>plans for that</a>.": "Le stanze pubbliche sono belle (e gratuite), ma sappiamo che certe cose sono private. Quindi abbiamo delle <a %s>offerte per questo</a>.",
 	"Developer friendly": "Per Sviluppatori",
-	"This is a picture of a cloud against a background of clouds. OMG! We <a %s>integrate</a> with a bunch of stuff in the cloud.": "Questa è l'immagine di una nuvola (cloud) su uno sfondo di nuvole. Mamma mia! Ci <a %s>Integriamo</a> con mucchio di roba nel cloud.",
+	"This is a picture of a cloud against a background of clouds. OMG! We <a %s>integrate</a> with a bunch of stuff in the cloud.": "Questa è l'immagine di una nuvola (cloud) su uno sfondo di nuvole. Mamma mia! Ci <a %s>integriamo</a> con un mucchio di roba nel cloud.",
 	"Some of our communities": "Alcune delle nostre comunità",
 	"Create your own": "Crea la tua",
 	"Explore rooms": "Esplora le stanze",
