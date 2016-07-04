@@ -1,6 +1,6 @@
 {
   "name": "@gitterhq/translations",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Translations for the Gitter webapp",
   "main": "index.js",
   "scripts": {
