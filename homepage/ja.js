@@ -57,7 +57,7 @@
 	"Android": "Android",
 	"By developers, for developers": "開発者から開発者へ",
 	"Gitter is built in London by a team of developers just like you. Hell even the product guy writes code, although we generally end up rewriting those bits.": "Gitterはあなたのような開発者によりロンドンで設立されました。製作者であってもコードを書きます。それらは大概、後から書き直すことになりますが。",
-	"If you're ever around Silicon Roundabout, give us a shout, we love meeting up with other developers.": “東ロンドンにお越しの際はぜひご連絡ください。私たちは開発者に会って話すことが大好きです。”,
+	"If you're ever around Silicon Roundabout, give us a shout, we love meeting up with other developers.": "東ロンドンにお越しの際はぜひご連絡ください。私たちは開発者に会って話すことが大好きです。",
 	"Support": "サポート",
 	"API": "API",
 	"Blog": "ブログ",
