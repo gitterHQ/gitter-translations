@@ -68,5 +68,5 @@
 	"Limited to 25 users per private room": "各プライベートチャットルームにつき最大ユーザー25人まで。",
 	"Pro": "プロ",
 	"<b>Unlimited</b> users per private room": "プライベートチャットルームのユーザー人<b>数無制限</b>",
-	"Get unlimited public rooms and one-to-one chats, free forever. Private team plans start from $5 per user per month. No credit card required.": "無制限のパブリックルームと一対一のチャットが永久に無料。<br />プライベートチームプランも毎月＄５から。<br />クレジットカードも不要です。"
+	"Get unlimited public rooms and one-to-one chats, free forever. Private team plans start from $5 per user per month. No credit card required.": "無制限のパブリックルームと一対一のチャットが永久に無料。プライベートチームプランも毎月＄５から。クレジットカードも不要です。"
 }
