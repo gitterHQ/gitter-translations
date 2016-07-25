@@ -56,7 +56,7 @@
 	"iPhone": "iPhone",
 	"Android": "Android",
 	"By developers, for developers": "Od vývojářů, pro vývojáře",
-	"Gitter is built in London by a team of developers just like you. Hell even the product guy writes code, although we generally end up rewriting those bits.": "Gitter je budován v Londýně týmem vývojářů jako vy. Sakra, i ten chlápek od produktů píše kód, ale obvykle to skončí tak, že je přepíšeme.",
+	"Gitter is built in London by a team of developers just like you. Hell even the product guy writes code, although we generally end up rewriting those bits.": "Gitter je budován v Londýně týmem vývojářů jako vy. Sakra, i ten chlápek od produktů píše kód, ale obvykle to skončí tak, že ho přepíšeme.",
 	"If you're ever around Silicon Roundabout, give us a shout, we love meeting up with other developers.": "Pokud někdy budete kolem Silicon Roundabout, dejte nám vědět, máme rádi setkání s ostatními vývojáři.",
 	"Support": "Podpora",
 	"API": "API",
