@@ -24,7 +24,7 @@
 	"Gitter is built on top of GitHub and is tightly integrated with your organisations, repositories, issues and activity.": "Gitter je postaven nad GitHubem a je úzce spojen s vašemi organizacemi, repozitáři, issues a aktivitou.",
 	"We provide integrations with Trello, Jenkins, Travis CI, Heroku, Sentry, BitBucket, HuBoard, Logentries, Pagerduty &amp; Sprintly. We also accept custom webhooks, have an <a %s>open source repository</a> for integrations as well as a <a %s>flexible API</a>.": "Nabízíme integraci s Trello, Jenkins, Travis CI, Heroku, Sentry, BitBucket, HuBoard, Logentries, Pagerduty &amp; Sprintly. Také přijímáme vlastní webhooks, máme <a %s>open source repozotář</a> pro integrace stejně jako <a %s>flexibilní API</a>.",
 	"Loved by our users": "Milováno našimi uživateli",
-	"Gitter is nothing without the people using it day in and day out.": "Gitter by byl byz každodenních uživatelů nic.",
+	"Gitter is nothing without the people using it day in and day out.": "Gitter by byl bez každodenních uživatelů ničím.",
 	"We asked a few what Gitter means to them, this is what they had to say. If you love Gitter, Tweet us <a %s>%s</a> and we'll update these quotes every month.": "Zeptali jsme několika lidí, co pro ně Gitter znamená a tohle je to, co říkají. Pokud milujete Gitter, Tweetněte nám na <a %s>%s</a> a my budeme vylepšovat tyto citace každý měsíc.",
 	"Personal pricing": "Ceny pro jednotlivce",
 	"Free": "Zdarma",
