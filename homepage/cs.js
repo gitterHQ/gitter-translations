@@ -62,6 +62,6 @@
 	"API": "API",
 	"Blog": "Blog",
 	"Twitter": "Twitter",
-	"Gitter &mdash; Where developers come to talk.": "Gitter &mdash; Kam developeři chodí hovořit.",
+	"Gitter &mdash; Where developers come to talk.": "Gitter &mdash; Kam si developeři chodí promluvit.",
 	"Translated By": "Honza Bittner (www.honzabittner.cz) and Dan Homola (twitter.com/DanHomola)"
 }
