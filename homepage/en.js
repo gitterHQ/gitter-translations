@@ -1,4 +1,5 @@
 {
+	"Translated By": "-",
 	"Gitter &mdash; Where developers come to talk.": "Gitter &mdash; Where developers come to talk.",
 	"Integrations": "Integrations",
 	"Pricing": "Pricing",
