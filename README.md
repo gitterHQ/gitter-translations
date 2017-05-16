@@ -3,7 +3,7 @@ gitter-translations
 
 Translations of Gitter to other languages. Please submit pull-requests if you would like to add or change anything!
 
-[![Gitter](https://badges.gitter.im/JOIN%20ROOM.svg)](https://gitter.im/gitterHQ/gitter-translations)
+[![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/gitterHQ/gitter-translations)
 
 ## How this works
 
