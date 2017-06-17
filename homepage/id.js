@@ -1,5 +1,5 @@
 {
-    "Translated By": "<a href='https://github.com/dikiaap' title='Diki Ananta di Github' target='_blank'>Diki Ananta</a>",
+    "Translated By": "<a href='https://github.com/dikiaap' title='Diki Ananta di GitHub' target='_blank'>Diki Ananta</a>",
     "Gitter &mdash; Where developers come to talk.": "Gitter &mdash; Dimana pengembang datang untuk berbicara.",
     "Integrations": "Integrasi",
     "Pricing": "Harga",
