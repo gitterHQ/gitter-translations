@@ -15,7 +15,7 @@
 	"Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.": "Gitter는 메시징, 컨텐트 및 검색을 통해 커뮤니티를 관리, 성장 및 연결하는 데 도움이되는 채팅 및 네트워킹 플랫폼입니다.",
 	"Create your own community": "자신만의 커뮤니티 만들기",
 	"Explore other communities": "다른 커뮤니티 탐색",
-	"By signing up you agree to our <a %s>Terms and Conditions</a>": "가입하면 <a href="#">이용 약관</a>에 동의하게됩니다.",
+	"By signing up you agree to our <a %s>Terms and Conditions</a>": "가입하면 <a %s>이용 약관</a>에 동의하게됩니다.",
 	"Free without limits": "무제한 무료",
 	"Enjoy free public communities with Unlimited people, message history and integrations.": "제한 없는 메시지 기록 및 통합을 통해 무료 공개 커뮤니티를 즐기십시오.",
 	"Simple to create": "간단한 시작",
