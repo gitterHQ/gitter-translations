@@ -72,35 +72,3 @@
 
 	"Translated By": "Mattias A (Nubbie on GitHub) & svbeon"
 }
-
-
-// Old strings that got removed/after the community update - Saved for easy access if needed
-	//"Chat, for GitHub.": "Chatt, för GitHub.",
-	//"Get unlimited public rooms and one-to-one chats, free forever. Private team plans start from $2 per user per month. No credit card required.": "Få oändligt med öppna rum och privata en-och-en rum, gratis för alltid. Privata prisplaner startar på $2 per användare varje månad. Inget kreditkort behövs.",
-	//"Sign up free with Github": "Registrera dig gratis med GitHub",
-	//"Sign up with Github": "Registrera dig med Github",
-	//"Markdown power": "Textformatering makt",
-	//"Ever wanted full markdown support in chat? How about syntax highlighting?": "Någonsin önskat full textformatering i chattar? Vad sägs som syntax markeringar?", 
-	//"Yip, we got your back.": "Yepp, det har vi.", 
-	//"Private conversations": "Privata konversationer",
-	//"Public rooms are awesome (and free), but we get that some stuff is private. So we've got <a %s>plans for that</a>.": "Offentliga rum är häftiga (och gratis), men vi fattar att vissa saker är privata. Så vi har <a %s>prisplaner för det/a>.",
-	//"Developer friendly": "Utvecklarvänligt",
-	//"This is a picture of a cloud against a background of clouds. OMG! We <a %s>integrate</a> with a bunch of stuff in the cloud.": "Detta är en bild på ett moln, mot en bakgrund av moln. OMG! Vi <a %s>Integrerar</a> med massor i molnet.",
-	//"Integrated with your workflow": "Integrerad med ditt arbetsflöde",
-	//"Gitter is built on top of GitHub and is tightly integrated with your organisations, repositories, issues and activity.": "Gitter är byggt på GitHub och är nära integrerat med dina organisationer, repositories, issues och aktiviteter.",
-	//"Personal pricing": "Personlig prissättning",
-	//"<b>1</b> private room": "<b>1</b> privatrum",
-	//"<b>2 weeks’</b> chat history": "<b>2 veckors</b> chatt historik",
-	//"Individual": "Individuell",
-	//"<b>Purchase</b> now": "<b>Köp</b> nu",
-	//"Organisation pricing": "Organisationsplaner",
-	//"Bronze": "Brons",
-	//"<b>6 months’</b> chat history": "<b>6 månader’</b> chatt historik",
-	//"Silver": "Silver",
-	//"Our free plan includes one private room per organisation you belong to on GitHub": "Vår gratisplan erbjuder ett privatrum per organisation du tillhör på GitHub",
-	//"Our Individual plan allows you to create private rooms using your personal account as the owner": "Vår Individuella plan tillåter dig att skapa privata rum genom att använda ditt personliga konto som ägare",
-	//"Our organisation plans allow you to create private rooms using your GitHub organisation as the owner": "Vår Organisationsplan tillåter dig att skapa privata rum via din GitHub organisation som ägare",
-	//"Coming soon": "Kommer snart",
-	//"By developers, for developers": "Av utvecklare, för utvecklare",
-	//"Gitter is built in London by a team of developers just like you. Hell even the product guy writes code, although we generally end up rewriting those bits.": "Gitter är skapad i London av ett lag med utvecklare precis som du. För tusan, till och med vår VD programmerar, även om vi brukar få skriva om alla de bitarna.",
-	//"If you're ever around Silicon Roundabout, give us a shout, we love meeting up with other developers.": "Om du någonsin är runt Silicon Roundabout, kom förbi, vi älskar att träffa andra utvecklare.",
