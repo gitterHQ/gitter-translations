@@ -16,7 +16,7 @@
 	"Public rooms are awesome (and free), but we get that some stuff is private. So we've got <a %s>plans for that</a>.": "Veřejné místnosti jsou super (a zdarma), ale víme, že některé věci jsou soukromé. Takže máme <a %s>plány pro toto</a>.",
 	"Developer friendly": "Přátelské pro vývojáře",
 	"This is a picture of a cloud against a background of clouds. OMG! We <a %s>integrate</a> with a bunch of stuff in the cloud.": "Tohle je obrázek mraku na pozadí mraků. OMG! <a %s>Začleňujeme</a> hromadu věcí v kloudu.",
-	"Some of our communities": "Některé z načich komunit",
+	"Some of our communities": "Některé z našich komunit",
 	"Create your own": "Vytvoř svou vlastní",
 	"Explore rooms": "Prozkoumej místnosti",
 	"Explore": "Prozkoumat",
