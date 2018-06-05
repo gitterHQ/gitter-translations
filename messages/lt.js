@@ -1,22 +1,18 @@
 {
 	"%d unread message": {
 		"one": "%d žinutė neperskaityta",
-		"other": "%d žinutes neperskaityta"
+		"other": "%d žinutės neperskaitytos"
 	},
 	"Unread messages in %%s, %%s and one other": {
-		"one": "žinutė neperskaityta %%s, %%s ir vienas kitas",
-		"other": "žinutė neperskaityta %%s, %%s ir %d kiti"
+		"one": "Žinutė neperskaityta %%s, %%s ir dar kita",
+		"other": "Žinutės neperskaitytos %%s, %%s ir %d kitos"
 	},
-	"Unread messages in %s": "žinutė neperskaityta %s",
-	"Unread messages in %s and %s": "žinutė neperskaityta %s ir %s",
-	"Unread messages from %s": "žinutes neperskaitytos is %s",
-	"Unread messages from %s and %s": "žinutes neperskaitytos is %s ir %s",
-	"Unread messages from %%s, %%s žinutes neperskaitytos is": {
-		"one": "žinutes neperskaitytos is %%s, %%s ir vienas kita",
-		"other": "žinutes neperskaitytos is %%s, %%s ir %d kita"
-	},
+	"Unread messages in %s": "Neperskaitytos žinutės %s",
+	"Unread messages in %s and %s": "Neperskaitytos žinutės %s ir %s",
+	"Unread messages from %s": "Neperskaitytos žinutės nuo %s",
+	"Unread messages from %s and %s": "Neperskaitytos žinutės nuo %s ir %s",
 	"Unread messages from %%s, %%s and one other": {
-		"one": "Unread messages from %%s, %%s and one other",
-		"other": "Unread messages from %%s, %%s and %d others"
+		"one": "Neperskaityta žinutė nuo %%s, %%s ir dar kita",
+		"other": "Neperskaitytos žinutės nuo %%s, %%s ir %d kitos"
 	}
 }
